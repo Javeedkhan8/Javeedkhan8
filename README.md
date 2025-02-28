@@ -39,7 +39,7 @@ I'm a passionate **MERN Stack Developer** with expertise in building scalable we
   </a>
 </p>
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: [javeedkhanjohnbasha8@gmail.com](mailto:javeedkhanjohnbasha8@gmail.com)
 
 ### ⚡ Fun Fact
 💡 I enjoy solving coding challenges and learning new technologies to enhance my skills!
