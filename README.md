@@ -16,30 +16,12 @@ I'm a passionate **MERN Stack Developer** with expertise in building scalable we
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-## 📌 Projects
-### 1️⃣ Online Rental Vehicle System 🚗
-   - Developed a full-stack application for booking rental vehicles.
-   - Implemented user authentication and booking management.
-   - Tech Stack: **MERN, Redux, TailwindCSS**
-   - [🔗 View Project](https://github.com/Javeedkhan8/guvi-task/tree/main/Project-1)
-
-### 2️⃣ College Placement Management System 🎓
-   - Designed a system to manage student placements efficiently.
-   - Features include student registration, job postings, and company interactions.
-   - Tech Stack: **MERN, Redux, TailwindCSS**
-   - [🔗 View Project](https://github.com/Javeedkhan8/guvi-task/tree/main/Project-2)
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/javeedkhan-j-70687b235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Javeedkhan8">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 📧 Email: [javeedkhanjohnbasha8@gmail.com](mailto:javeedkhanjohnbasha8@gmail.com)
 
-### ⚡ Fun Fact
-💡 I enjoy solving coding challenges and learning new technologies to enhance my skills!
