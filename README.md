@@ -3,40 +3,29 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Passionate+MERN+Stack+Developer;Creative+Problem+Solver;Turning+Ideas+into+Code+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=MERN+Stack+Developer;Building+Web+Apps+with+React+%26+Node.js" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-💻 I'm a **MERN Stack Developer** who’s obsessed with turning complex problems into simple, beautiful, and intuitive web applications. I blend logic and creativity to develop seamless experiences across the **full stack**—from backend APIs to elegant frontend interfaces.
+I'm a **MERN Stack Developer** who enjoys building web applications that are simple and user-friendly. I work mostly with **React, Node.js, Express, and MongoDB**.  
 
-🎯 Whether it’s designing a database schema, building REST APIs, or crafting responsive UIs with React and TailwindCSS, I always code with **performance, scalability, and user experience** in mind.
-
-🧠 I believe in **lifelong learning** and am always exploring new technologies, tools, and best practices to level up my craft.
-
-⚡ Here’s what I bring to the table:
-- End-to-End Web App Development 🚀  
-- Razorpay Payment Gateway Integration 💳  
-- Real-Time Chat & Auth Systems 🔐  
-- Fully Customized Dashboards & Filtering Logic 🎨  
-- Clean, Modular Code with Best Practices ✅  
-
-> _“Programming isn't about what you know; it's about what you can figure out.”_
+I like to learn new things, solve real-world problems through code, and build full-stack projects from scratch. I'm also comfortable working with APIs, authentication systems, and responsive UI designs using **TailwindCSS**.
 
 ---
 
 ## 💼 Key Projects
 
 ✨ **TrackEdu**  
-An Education CRM to manage student enrollments, course tracking, attendance, fees, and instructor-student chat. Built with React, Node.js, Express, and MongoDB.
+CRM app for managing courses, students, and attendance with chat support.
 
 🎓 **College Placement Portal**  
-A centralized system for job listings, student applications, interview rounds, and results tracking. Designed for smooth coordination between admins, students, and recruiters.
+System for managing job listings, student applications, and interview tracking.
 
 🛒 **E-commerce App**  
-MERN stack-based shopping platform with authentication, advanced filtering, cart functionality, and **Razorpay** payment integration.
+Online store with product filters, cart system, and Razorpay integration.
 
 ---
 
@@ -45,16 +34,6 @@ MERN stack-based shopping platform with authentication, advanced filtering, cart
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,tailwind,git" />
 </p>
-
-<div align="center">
-
-🔹 <b>Languages:</b> JavaScript (ES6+), HTML5, CSS3  
-🔹 <b>Frontend:</b> React, TailwindCSS  
-🔹 <b>Backend:</b> Node.js, Express.js  
-🔹 <b>Database:</b> MongoDB, MySQL  
-🔹 <b>Others:</b> Git, Postman, REST APIs, Razorpay, JWT Auth  
-
-</div>
 
 ---
 
@@ -69,4 +48,3 @@ MERN stack-based shopping platform with authentication, advanced filtering, cart
 📩 **Email**: [javeedkhanjohnbasha8@gmail.com](mailto:javeedkhanjohnbasha8@gmail.com)
 
 ---
-
